@@ -30,6 +30,8 @@
 </head>
 <body>
     <h1>Top Five</h1>
+    <h2 style="margin-bottom: 0em;">Welcome!</h2>
+    <p> Welcome to Top Five! This is a platform that allows users to create and share their top five lists of any category they want! Get started on your list below!<br></p>
     <form method="POST">
         <label for="category">Category:</label><br>
         <input type="text" id="category" name="category" required><br><br>
@@ -41,6 +43,9 @@
         <input type="text" name="item4" placeholder="Item 4" required><br>
         <input type="text" name="item5" placeholder="Item 5" required><br><br>
 
+        <label for="category">List Description:</label><br>
+        <input type="text" id="description" name="description" required><br><br>
+
         <button type="submit">Submit</button>
     </form>
 
@@ -51,6 +56,7 @@
                 <tr>
                     <th>Category</th>
                     <th>Items</th>
+                    <th>Description</th>
                 </tr>
             </thead>
             <tbody>

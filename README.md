@@ -1,4 +1,5 @@
 ## Team Members: Joey Schechtel (joeypaul27)
+**No AI was used in this assignment**
 
 # Top Five
 
