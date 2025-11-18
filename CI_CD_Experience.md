@@ -1,0 +1,3 @@
+## CI/CD Experience
+
+I have very minimal experience with the CI/CD process. Towards the end of my internship last summer, I got to inspect some of the code for their internal engineering tools, which had to do with satellite payload operations and data collection. The furthest I ever got into their CI/CD process was seeing their different testing/staging/deployment environments and hearing some of the payload or ADCS people around my desk complain about it. My internship was not super software engineering-focused, but I got a tiny window into things. I hope to intern for them again, but focusing on software this time. 
