@@ -1,3 +1,5 @@
+## Team Members: Joey Schechtel (joeypaul27)
+
 # Top Five
 
 This is a preliminary version of a social media platform called Top Five. The primary function of this website is for users to create posts listing their top five favorite items for a specific category. 
